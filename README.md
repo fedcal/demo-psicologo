@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Psicologo** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://psicologo.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-psicologo/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-psicologo/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-psicologo.git
-cd federico-demo-psicologo
+git clone https://github.com/fedcal/demo-psicologo.git
+cd demo-psicologo
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:psicologo
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-psicologo/
+→ https://fedcal.github.io/demo-psicologo/
 
 ## Hub demos Federico
 
