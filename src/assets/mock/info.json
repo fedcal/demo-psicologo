@@ -1,0 +1,45 @@
+{
+  "ragioneSociale": "Studio Bianchi Psicoterapia",
+  "nomeCommerciale": "Studio Bianchi Psicoterapia",
+  "tagline": "Psicoterapia cognitivo-comportamentale — Milano",
+  "albo": "Albo degli Psicologi della Lombardia n. 12845",
+  "partitaIva": "IT09876543210",
+  "indirizzo": {
+    "via": "Via Manzoni 28, 3° piano",
+    "citta": "Milano",
+    "provincia": "MI",
+    "cap": "20121",
+    "regione": "Lombardia",
+    "paese": "Italia",
+    "lat": 45.4711,
+    "lng": 9.1941
+  },
+  "contatti": {
+    "telefono": "+39 02 8765 4321",
+    "whatsapp": "+39 338 9876 543",
+    "email": "info@studiobianchi-psicoterapia.it",
+    "social": {
+      "linkedin": "https://linkedin.com/in/studiobianchi-demo"
+    }
+  },
+  "orari": {
+    "lunedi": "09:00 – 19:00",
+    "martedi": "09:00 – 19:00",
+    "mercoledi": "09:00 – 19:00",
+    "giovedi": "09:00 – 19:00",
+    "venerdi": "09:00 – 17:00",
+    "sabato": "Su appuntamento",
+    "domenica": "Chiuso"
+  },
+  "tariffe": {
+    "studioEuro": 70,
+    "onlineEuro": 60,
+    "primoColloquioEuro": 50,
+    "primoColloquioDurataMm": 60
+  },
+  "metaSeo": {
+    "title": "Studio Bianchi Psicoterapia — Milano, terapia cognitivo-comportamentale",
+    "description": "Studio di psicoterapia a Milano. Approccio cognitivo-comportamentale per ansia, depressione, attacchi di panico, coppia e percorsi individuali. Primo colloquio €50.",
+    "keywords": ["psicologo milano", "psicoterapia cognitivo comportamentale", "ansia depressione milano", "terapia online"]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "aree": [
+    {
+      "id": "ansia",
+      "nome": "Ansia e Preoccupazione",
+      "icona": "🧩",
+      "breve": "Pensieri intrusivi, tensione costante, difficoltà a rilassarsi.",
+      "descrizione": "L'ansia è una risposta naturale allo stress, ma quando diventa persistente e interferisce con la vita quotidiana può essere affrontata con strumenti efficaci. La terapia cognitivo-comportamentale offre tecniche validate per riconoscere i pensieri ansiosi e modificare i pattern che li alimentano.",
+      "segnali": ["Preoccupazione eccessiva e difficile da controllare", "Tensione muscolare e stanchezza", "Difficoltà di concentrazione", "Disturbi del sonno"],
+      "featured": true
+    },
+    {
+      "id": "depressione",
+      "nome": "Umore Basso e Depressione",
+      "icona": "🌧️",
+      "breve": "Tristezza persistente, perdita di interesse, senso di vuoto.",
+      "descrizione": "La depressione non è semplice tristezza: è un momento di sofferenza profonda che merita ascolto e supporto professionale. Con un percorso terapeutico strutturato è possibile ritrovare energie, motivazione e contatto con ciò che dà significato alla propria vita.",
+      "segnali": ["Umore depresso per la maggior parte del giorno", "Perdita di interesse o piacere nelle attività", "Affaticamento e calo energetico", "Pensieri di inutilità o colpa"],
+      "featured": true
+    },
+    {
+      "id": "attacchi-panico",
+      "nome": "Attacchi di Panico",
+      "icona": "⚡",
+      "breve": "Episodi improvvisi di intensa paura con sintomi fisici.",
+      "descrizione": "Gli attacchi di panico possono essere molto spaventosi, ma sono trattabili. La psicoterapia cognitivo-comportamentale ha un'elevata efficacia documentata: si lavora sulle interpretazioni catastrofiche dei segnali corporei e si riducono progressivamente le condotte di evitamento.",
+      "segnali": ["Palpitazioni e respiro affannoso", "Sensazione di perdere il controllo", "Evitamento di luoghi o situazioni", "Paura della prossima crisi"],
+      "featured": true
+    },
+    {
+      "id": "coppia",
+      "nome": "Difficoltà di Coppia",
+      "icona": "💬",
+      "breve": "Conflitti, comunicazione difficile, crisi di coppia.",
+      "descrizione": "La terapia di coppia offre uno spazio neutro e strutturato per migliorare la comunicazione, comprendere i cicli relazionali disfunzionali e ritrovare intimità. Si lavora insieme, partendo dall'ascolto reciproco, senza giudizi.",
+      "segnali": ["Conflitti ripetitivi senza risoluzione", "Difficoltà comunicative", "Perdita di intimità emotiva", "Crisi legate a eventi di vita"],
+      "featured": false
+    },
+    {
+      "id": "famiglia",
+      "nome": "Relazioni Familiari",
+      "icona": "🏠",
+      "breve": "Dinamiche difficili tra genitori e figli, conflitti intergenerazionali.",
+      "descrizione": "Le tensioni familiari possono essere affrontate in un contesto terapeutico che aiuta ogni membro a sentirsi ascoltato. Si esplorano le dinamiche relazionali, i ruoli e le aspettative, costruendo nuove modalità di comunicazione e vicinanza.",
+      "segnali": ["Difficoltà genitori-figli", "Conflitti intergenerazionali", "Separazioni e ricomposizioni familiari", "Gestione di figli adolescenti"],
+      "featured": false
+    },
+    {
+      "id": "lutto",
+      "nome": "Lutto e Perdita",
+      "icona": "🕊️",
+      "breve": "Elaborazione di perdite significative: persone, relazioni, ruoli.",
+      "descrizione": "Il lutto è un processo naturale ma a volte complesso. Quando la sofferenza diventa bloccante o prolungata, un supporto terapeutico può aiutare ad attraversare il dolore, trovare nuovi significati e riprendere contatto con la vita.",
+      "segnali": ["Dolore intenso che non si attenua", "Senso di vuoto o irrealtà", "Ritiro sociale", "Difficoltà ad accettare la perdita"],
+      "featured": false
+    },
+    {
+      "id": "alimentazione",
+      "nome": "Disturbi del Comportamento Alimentare",
+      "icona": "🍃",
+      "breve": "Rapporto difficile con il cibo, il corpo e l'immagine corporea.",
+      "descrizione": "I disturbi alimentari richiedono un approccio integrato e competente. Lo studio lavora in rete con figure mediche quando necessario, offrendo supporto psicologico centrato sul rapporto con il proprio corpo, le emozioni e i pensieri legati al cibo.",
+      "segnali": ["Preoccupazione intensa per peso e corpo", "Comportamenti restrittivi o compulsivi", "Emozioni difficili legate al mangiare", "Bassa autostima corporea"],
+      "featured": false
+    },
+    {
+      "id": "adolescenti",
+      "nome": "Adolescenti e Giovani Adulti",
+      "icona": "🌱",
+      "breve": "Supporto in una fase di cambiamento identitario e relazionale.",
+      "descrizione": "L'adolescenza è un periodo di profondi cambiamenti. Ansia scolastica, difficoltà relazionali, bassa autostima o stati d'umore instabili meritano ascolto specializzato. Lo studio offre percorsi dedicati ai ragazzi, in uno spazio riservato e non giudicante.",
+      "segnali": ["Ansia scolastica o performance", "Isolamento sociale", "Cambiamenti d'umore marcati", "Difficoltà identitarie"],
+      "featured": false
+    }
+  ]
+}

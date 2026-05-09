@@ -1,0 +1,53 @@
+{
+  "modalita": [
+    {
+      "id": "studio",
+      "nome": "In Studio",
+      "icona": "🏢",
+      "tagline": "Uno spazio riservato e accogliente nel centro di Milano.",
+      "descrizione": "Le sedute in presenza si svolgono in uno studio professionale, confortevole e strettamente riservato, in Via Manzoni 28 a Milano. Lo spazio è pensato per favorire l'ascolto profondo e la relazione terapeutica.",
+      "vantaggi": [
+        "Relazione terapeutica più intensa e presente",
+        "Spazio fisico dedicato e confidenziale",
+        "Accessibile con mezzi pubblici (MM2 Lanza)",
+        "Saletta d'attesa separata"
+      ],
+      "tariffaEuro": 70,
+      "durataMm": 50,
+      "disponibilita": "Lunedì – Venerdì 09:00–19:00, Sabato su appuntamento"
+    },
+    {
+      "id": "online",
+      "nome": "Online",
+      "icona": "💻",
+      "tagline": "Psicoterapia efficace da casa, con la stessa qualità dello studio.",
+      "descrizione": "Le sedute online si svolgono tramite piattaforma sicura e conforme GDPR (Zoom o Google Meet). La ricerca scientifica ne conferma l'efficacia per la maggior parte dei percorsi terapeutici. Ideale per chi ha difficoltà a spostarsi o preferisce la comodità del proprio spazio.",
+      "vantaggi": [
+        "Nessuno spostamento richiesto",
+        "Stessa efficacia terapeutica documentata",
+        "Piattaforma GDPR-compliant",
+        "Fuso orario flessibile per italiani all'estero"
+      ],
+      "tariffaEuro": 60,
+      "durataMm": 50,
+      "disponibilita": "Lunedì – Sabato, orari estesi fino alle 20:00"
+    },
+    {
+      "id": "domicilio",
+      "nome": "A Domicilio",
+      "icona": "🏡",
+      "tagline": "Per chi non può spostarsi: la terapia arriva da te.",
+      "descrizione": "Le sedute a domicilio sono dedicate a persone con mobilità ridotta, anziani o situazioni particolari che rendono difficoltoso raggiungere lo studio. Disponibile nella zona di Milano e hinterland (fino a 20 km). La riservatezza è garantita al pari delle sedute in studio.",
+      "vantaggi": [
+        "Accessibile anche con mobilità ridotta",
+        "Ambiente familiare e rassicurante",
+        "Maggior comodità in fasi acute",
+        "Stessa qualità e riservatezza professionale"
+      ],
+      "tariffaEuro": 85,
+      "durataMm": 50,
+      "disponibilita": "Su appuntamento, area Milano e hinterland (max 20 km)",
+      "nota": "Disponibilità limitata. Contattare lo studio per verificare la copertura della propria area."
+    }
+  ]
+}

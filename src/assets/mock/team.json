@@ -1,0 +1,34 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Dott.ssa Elena Bianchi",
+      "ruolo": "Psicologa e Psicoterapeuta — Fondatrice",
+      "titoli": ["Laurea Magistrale in Psicologia Clinica, Università Statale di Milano", "Specializzazione in Psicoterapia Cognitivo-Comportamentale, AIAMC", "Iscritta all'Albo degli Psicologi della Lombardia n. 12845"],
+      "bio": "Oltre 15 anni di esperienza clinica in ambito privato e in strutture del SSN. La Dott.ssa Bianchi ha fondato lo studio nel 2010 con la convinzione che ogni persona meriti uno spazio di ascolto professionale, empatico e rispettoso. Ha una formazione specifica nei disturbi d'ansia, depressione e relazioni di coppia.",
+      "anniEsperienza": 15,
+      "specializzazioni": ["Disturbi d'ansia", "Depressione", "Terapia di coppia", "Trauma complesso"],
+      "lingue": ["Italiano", "Inglese"]
+    },
+    {
+      "id": 2,
+      "nome": "Dott. Marco Ricci",
+      "ruolo": "Psicologo Collaboratore",
+      "titoli": ["Laurea Magistrale in Psicologia, Università Bicocca di Milano", "Master in Psicologia dell'Adolescenza", "Iscritto all'Albo degli Psicologi della Lombardia n. 18722"],
+      "bio": "Specializzato nel lavoro con adolescenti e giovani adulti, il Dott. Ricci porta nello studio competenze specifiche sui percorsi di sviluppo identitario, ansia scolastica e disagio relazionale in età evolutiva. Collabora con scuole e centri giovanili del territorio milanese.",
+      "anniEsperienza": 8,
+      "specializzazioni": ["Adolescenti", "Ansia scolastica", "Sviluppo identitario", "Relazioni familiari"],
+      "lingue": ["Italiano"]
+    },
+    {
+      "id": 3,
+      "nome": "Dott.ssa Chiara Ferretti",
+      "ruolo": "Psicologa Collaboratrice",
+      "titoli": ["Laurea Magistrale in Psicologia Clinica e di Comunità, Università di Pavia", "Specializzazione in Disturbi del Comportamento Alimentare, SISDCA", "Iscritta all'Albo degli Psicologi della Lombardia n. 21034"],
+      "bio": "La Dott.ssa Ferretti si occupa in modo specifico dei disturbi del comportamento alimentare e del rapporto con il corpo, con un approccio integrato che valorizza la collaborazione con figure mediche e nutrizionali. Ha maturato esperienza in centri specializzati per i DCA prima di entrare a far parte dello studio.",
+      "anniEsperienza": 6,
+      "specializzazioni": ["Disturbi alimentari", "Immagine corporea", "Lutto", "Relazioni familiari"],
+      "lingue": ["Italiano", "Francese"]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "domanda": "Il colloquio è riservato? I miei dati sono protetti?",
+      "risposta": "Sì, in modo assoluto. I dati sanitari rientrano nelle categorie particolari ai sensi dell'art. 9 del GDPR e sono trattati con le massime garanzie. Lo psicologo è tenuto al segreto professionale per legge (art. 622 c.p. e art. 11 Codice Deontologico). Nulla di ciò che condividi uscirà dallo studio senza il tuo esplicito consenso."
+    },
+    {
+      "domanda": "Posso detrarre le spese della terapia?",
+      "risposta": "Sì. Le prestazioni di psicoterapia erogate da uno psicologo iscritto all'Albo sono detraibili al 19% nella dichiarazione dei redditi (Modello 730 o Unico), previa emissione di regolare ricevuta fiscale o fattura. Conserva sempre la documentazione."
+    },
+    {
+      "domanda": "Quanto dura un percorso terapeutico?",
+      "risposta": "Non esiste una durata standard. Dipende dalla difficoltà portata, dalla frequenza degli incontri e dagli obiettivi concordati. Alcuni percorsi brevi (8-16 sedute) sono indicati per obiettivi specifici; altri di media durata (6-18 mesi) per situazioni più complesse. La durata viene discussa e ridefinita insieme durante il percorso."
+    },
+    {
+      "domanda": "Posso fare terapia online? È efficace quanto quella in presenza?",
+      "risposta": "Sì. La letteratura scientifica degli ultimi anni documenta un'efficacia equivalente alla terapia in presenza per la maggior parte dei disturbi. Le sedute online avvengono su piattaforma sicura, cifrata e conforme al GDPR. È una modalità apprezzata da chi ha difficoltà a spostarsi, vive fuori Milano o preferisce la comodità del proprio ambiente."
+    },
+    {
+      "domanda": "Qual è la differenza tra psicologo, psicoterapeuta e psichiatra?",
+      "risposta": "Lo psicologo è laureato in psicologia e iscritto all'Albo; può fare valutazioni e supporto psicologico. Lo psicoterapeuta ha in aggiunta una specializzazione quadriennale riconosciuta MIUR che abilita alla psicoterapia. Lo psichiatra è un medico specializzato in psichiatria e può prescrivere farmaci. La Dott.ssa Bianchi e i collaboratori sono psicologi e psicoterapeuti abilitati."
+    },
+    {
+      "domanda": "Il primo colloquio è gratuito?",
+      "risposta": "Il primo colloquio conoscitivo ha una tariffa agevolata di €50 (durata 60 minuti, invece dei 50 delle sedute regolari). Serve per conoscersi, esplorare il motivo della richiesta e valutare insieme se avviare un percorso. Non ti impegna in alcun modo a continuare."
+    },
+    {
+      "domanda": "Con quale frequenza si fanno le sedute?",
+      "risposta": "Di solito si inizia con una seduta a settimana, per costruire una buona base terapeutica. In alcune fasi si può passare a una seduta ogni due settimane. La frequenza viene valutata insieme in base alle esigenze e agli obiettivi del percorso."
+    },
+    {
+      "domanda": "Cosa succede se mi accorgo che non è il terapeuta giusto per me?",
+      "risposta": "L'alleanza terapeutica è fondamentale per l'efficacia della terapia. È normale che ci voglia qualche seduta per valutare se si è a proprio agio. Se lo ritieni, puoi dirlo apertamente: lo studio cercherà di capire cosa non funziona o, se necessario, orientarti verso un collega più adatto alle tue esigenze. Non ci sono vincoli."
+    }
+  ]
+}
